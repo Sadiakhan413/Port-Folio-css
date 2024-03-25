@@ -1,0 +1,39 @@
+#ibody{
+ 
+}
+#i1body{
+    
+}
+#i2body{
+   
+}
+#mydatbody{
+    background-color: rgb(236, 228, 228);
+    color: brown;
+}
+#homebody{
+    
+    font-size: larger;
+    background-color: rgb(221, 226, 235);
+}
+#conbody{
+    background-color: rgb(230, 210, 162);
+
+}
+#fedbody{
+    background-color:rgb(191, 226, 191);
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    justify-content: center;
+
+}
+
+#projbody{
+    background-color: rgb(228, 193, 200);
+
+}
+#skillsbody
+{
+    background-color: rgb(206, 236, 152);
+}
